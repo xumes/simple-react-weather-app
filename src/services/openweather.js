@@ -6,7 +6,6 @@ const api = {
     base: key.OPENWEATHER_BASE_URL,
 };
 
-
 export const getWeather = ( city ) => {
     const url = `${api.base}weather?q=${city}&units=metric&APPID=${api.key}`;
     console.log(url);

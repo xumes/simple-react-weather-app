@@ -6,7 +6,6 @@ import SearchBar from '../components/SearchBar';
 import CurrentWeather from '../components/CurrentWeather';
 import ForecastWeather from '../components/ForecastWeather';
 
-
 const Weather = () => {
     const [ city, setCity ] = useState("");
     const [ weather, setWeather ] = useState( { } );

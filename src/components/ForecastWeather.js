@@ -46,5 +46,4 @@ const ForecastContainer = styled.div`
     overflow-y: scroll;
 `;
 
-
 export default ForecastWeather;

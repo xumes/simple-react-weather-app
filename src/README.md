@@ -6,7 +6,7 @@ A simple React application created during the Guild.js meeting in January 2021.
 
 ## Video Classes available on Youtube
 
-* [Youtube Channel](https://github.com/paulmillr/chokidar)
+* [Youtube Playlist](https://www.youtube.com/playlist?list=PL07l7JtVlEwLRnfRWuqDRO9Ti-ZbDaIy1)
 
 
 ## Usage
